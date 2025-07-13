@@ -1,20 +1,21 @@
-# 👋 Hello there, I'm Kobe Raf Jumarito Bomotano!
+## 👋 Hello there, I'm Kobe Raf!
 
 [![GitHub followers](https://img.shields.io/github/followers/kobeRaf?style=social)](https://github.com/kobeRaf)
 [![Profile Views](https://komarev.com/ghpvc/?username=kobeRaf&style=flat-square)](https://github.com/kobeRaf)
 
 ---
 
-## 💡 About Me
+# About Me
 
 - 🎓 A passionate developer with a knack for learning and creating cool stuff
 - 💻 Currently working on: **Capstone Projects** & refining my **React Native + Laravel** skills
 - 🎸 I play guitar — badly, but passionately
 - 😄 Fun fact: I talk to my bugs like they’re teammates
+- ✏️ I love Anime: I draw and animate.
 
 ---
 
-## 🧰 Tools & Tech Stack
+# Tools & Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -27,22 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
 </p>
 
-> 🖌️ _Note: Clip Studio Paint icon not in Devicon, using Photoshop icon as visual placeholder._
-
 ---
 
-## 📫 Contact Me
+# Contact Me
 
-- 🌐 [Facebook](https://facebook.com/your-profile) <!-- Replace with your real Facebook -->
-- ✉️ Email: `your.email@example.com` <!-- Replace with your real email -->
+- 🌐 [Facebook]([https://facebook.com/your-profile](https://www.facebook.com/kobe.rafEve)) 
+- ✉️ Email: `jumaritokoberaf@gmail.com` 
 - 🔗 Portfolio: _Coming Soon_... maybe. If I’m not lazy.
-
----
-
-## 📈 GitHub Stats
-
-![Kobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeRaf&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeRaf&layout=compact&theme=tokyonight)
 
 ---
 
