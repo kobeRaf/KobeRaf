@@ -32,7 +32,7 @@
 
 ### Contact Me
 
-- 🌐 [Facebook]([https://facebook.com/your-profile](https://www.facebook.com/kobe.rafEve)) 
+- 🌐 [Facebook](https://www.facebook.com/kobe.rafEve) 
 - ✉️ Email: `jumaritokoberaf@gmail.com` 
 - 🔗 Portfolio: _Coming Soon_... maybe. If I’m not lazy.
 
