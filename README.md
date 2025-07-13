@@ -1,4 +1,4 @@
-###👋 Hello there, I'm Kobe Raf!
+## 👋 Hello there, I'm Kobe Raf!
 
 [![GitHub followers](https://img.shields.io/github/followers/kobeRaf?style=social)](https://github.com/kobeRaf)
 [![Profile Views](https://komarev.com/ghpvc/?username=kobeRaf&style=flat-square)](https://github.com/kobeRaf)
