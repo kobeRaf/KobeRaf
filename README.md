@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn-icons-png.flaticon.com/512/552/552721.png" height="40" alt="Clip Studio Paint" />
 </p>
 
 > 🖌️ _Note: Clip Studio Paint icon not in Devicon, using Photoshop icon as visual placeholder._
